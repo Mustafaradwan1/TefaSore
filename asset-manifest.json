@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TefaSore/static/css/main.3fbbe3d0.css",
+    "main.js": "/TefaSore/static/js/main.a25a0a17.js",
+    "index.html": "/TefaSore/index.html",
+    "main.3fbbe3d0.css.map": "/TefaSore/static/css/main.3fbbe3d0.css.map",
+    "main.a25a0a17.js.map": "/TefaSore/static/js/main.a25a0a17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fbbe3d0.css",
+    "static/js/main.a25a0a17.js"
+  ]
+}
